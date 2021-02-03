@@ -1,2 +1,5 @@
 git checkout --<PATH>
--> Desfaz todas a modificações NÃO estejam no stage desde do último commit
+-> Desfaz todas as modificações NÃO estejam no stage desde do último commit
+
+git checkout HEAD --<PATH>
+-> Desfaz todas as modificações que esteja no stage desde do último commit
