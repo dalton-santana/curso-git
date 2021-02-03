@@ -1,1 +1,2 @@
-Git Init 
+git checkout --<PATH>
+-> Desfaz todas a modificações NÃO estejam no stage desde do último commit
