@@ -13,3 +13,5 @@ git reset --hard <commit>
 
 Branch 2 criada
 
+Branch 2 commit 2
+
