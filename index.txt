@@ -11,4 +11,5 @@ git reset --hard <commit>
 -> Reverte o commit e adiciona um commit com essa reversão
 (CUIDADO!, se for enviado para um repo remoto não é recomendado)
 
-Teste reset 
+Branch 2 criada
+
