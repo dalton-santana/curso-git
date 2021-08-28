@@ -1,3 +1,9 @@
+git status
+-> Verifica as modificações atuais
+
+git log
+-> Mostra o histórico de commits
+
 git checkout --<PATH>
 -> Desfaz todas as modificações NÃO estejam no stage desde do último commit
 
@@ -11,7 +17,8 @@ git reset --hard <commit>
 -> Reverte o commit e adiciona um commit com essa reversão
 (CUIDADO!, se for enviado para um repo remoto não é recomendado)
 
-Branch 2 criada
-
-Branch 2 commit 2
-
+git branch new-feature
+-> Cria uma ramificação a partir daquele momento
+ 
+git rebase <branch>
+-> 
