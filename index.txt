@@ -17,8 +17,16 @@ git reset --hard <commit>
 -> Reverte o commit e adiciona um commit com essa reversão
 (CUIDADO!, se for enviado para um repo remoto não é recomendado)
 
+<<<<<<< HEAD
 git branch new-feature
 -> Cria uma ramificação a partir daquele momento
  
 git rebase <branch>
 -> 
+=======
+Branch 2 criada
+
+Branch 2 commit 2
+
+teste feature1
+>>>>>>> update feature
